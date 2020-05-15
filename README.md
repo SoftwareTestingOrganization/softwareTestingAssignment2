@@ -1,4 +1,4 @@
-# softwareTestingAssignment2
+# SoftwareTestingAssignment2
 Introduction
 
 An Equation in one unknown quantity (let it be x) in the form ax2 + bx + c = 0 is known as a Quadratic equation, where a, b, c are constants and a ≠ 0 while b and c can be zero. Here “a” is called the coefficient of x2, “b” is the coefficient of x and “c” is a constant term. The word “Quadratic” comes from “Quadratum”, the Latin word for square. Hence, a quadratic equation is an equation where the variable is of the second degree. Therefore, a Quadratic equation is also called an “Equation of Degree 2”. Many real-world problems can be studied and solved using Quadratic Equations. Quadratic equations are used in everyday life too, as when calculating areas, determining a product's profit or formulating the speed of an object, projectile motion etc.   
